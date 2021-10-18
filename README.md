@@ -4,6 +4,8 @@ en ubuntu es mejor no correrlo desde pipenv, la pendejada simplemente muestra de
 
 en arm7 es mejor usar un compilado a mano, (la mayoria son de 32 bits hdspm)
 https://qengineering.eu/install-tensorflow-2.1.0-on-raspberry-pi-4.html
+https://qengineering.eu/install-tensorflow-2.2.0-on-raspberry-pi-4.html
+
 
 ```sh
 # get a fresh start
